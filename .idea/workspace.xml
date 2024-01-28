@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5246a9da-dc47-412f-9f74-f6f24e9d15d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/pages/GreenKartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/pages/PageAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/pages/PageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/pages/PaginationPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/runners/CukesRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/step_definitions/AddCheckStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/step_definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/step_definitions/PaginationStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/step_definitions/UrunEkle_StepD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mba_cucumber/utilities/WaitUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddCheck.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Pagination.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/urunEkle.feature" afterDir="false" />
-    </list>
+    <list default="true" id="5246a9da-dc47-412f-9f74-f6f24e9d15d4" name="Changes" comment="The project has been modified by QA Gulay" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +22,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/SDET/GULAY QA/GreenCardUIAutomationProject",
     "onboarding.tips.debug.path": "D:/SDET/GULAY QA/GreenCardUIAutomationProject/src/main/java/org/example/Main.java"
   }
@@ -66,7 +45,29 @@
       <option name="presentableId" value="Default" />
       <updated>1706464022525</updated>
     </task>
+    <task id="LOCAL-00001" summary="The project has been deployed to Github by QA Gulay">
+      <option name="closed" value="true" />
+      <created>1706464796946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706464796946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The project has been modified by QA Gulay">
+      <option name="closed" value="true" />
+      <created>1706464835191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706464835191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The project has been deployed to Github by QA Gulay" />
+    <MESSAGE value="The project has been modified by QA Gulay" />
+    <option name="LAST_COMMIT_MESSAGE" value="The project has been modified by QA Gulay" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
