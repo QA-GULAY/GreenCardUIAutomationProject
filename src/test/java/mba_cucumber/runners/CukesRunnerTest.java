@@ -15,5 +15,5 @@ import org.junit.runner.RunWith;
         tags = "@Pagination"
 
 )
-public class CukesRunner {
+public class CukesRunnerTest {
 }
